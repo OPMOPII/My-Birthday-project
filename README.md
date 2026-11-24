@@ -1,1 +1,9 @@
-Thi is my birthday i will build a project named omni>_code
+# My-Birthday-project
+
+This is a birthday project where I am building a project named OmniCode.
+
+## Goal
+To document the development journey and features of the OmniCode project.
+
+## Status
+Under development.
