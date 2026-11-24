@@ -1,9 +1,11 @@
-# My-Birthday-project
+# My Birthday Project: omni>_code
 
-This is a birthday project where I am building a project named OmniCode.
+أهلاً بك في مستودع مشروع "عيد ميلادي"! 
 
-## Goal
-To document the development journey and features of the OmniCode project.
+هذا المشروع يمثل الخطوة الأولى في بناء منصة `omni>_code`. تم تصميم هذا المشروع ليكون بمثابة بيئة تطويرية مبتكرة وأداة برمجية خاصة احتفالاً بعيد ميلادي.
 
-## Status
-Under development.
+## الهدف من المشروع
+الهدف الأساسي هو تطوير `omni>_code` لتكون أداة قوية وفعالة، وتوثيق رحلة تطويرها من الصفر.
+
+## المساهمة
+هذا المشروع خاص حالياً، ولكنني أرحب بأي اقتراحات أو أفكار قد تساهم في تطوير `omni>_code`.
